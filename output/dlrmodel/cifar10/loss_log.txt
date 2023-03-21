@@ -1,0 +1,80 @@
+================ Tue Mar 21 15:42:51 2023 ================
+airplane,Protocol2, 5, 50, 1
+
+   Measure: 0.200 ValidAUC: 0.976 TestAUC: 0.986 max AUC: 0.986
+   Measure: 0.120 ValidAUC: 0.987 TestAUC: 0.999 max AUC: 0.999
+   Measure: 0.125 ValidAUC: 0.996 TestAUC: 1.000 max AUC: 1.000
+   Measure: 0.095 ValidAUC: 0.997 TestAUC: 1.000 max AUC: 1.000
+   Measure: 0.094 ValidAUC: 0.993 TestAUC: 1.000 max AUC: 1.000
+================ Tue Mar 21 15:44:39 2023 ================
+automobile,Protocol2, 5, 50, 1
+
+   Measure: 0.234 ValidAUC: 0.827 TestAUC: 0.940 max AUC: 0.940
+   Measure: 0.146 ValidAUC: 0.993 TestAUC: 0.998 max AUC: 0.998
+   Measure: 0.109 ValidAUC: 0.998 TestAUC: 0.999 max AUC: 0.999
+   Measure: 0.106 ValidAUC: 0.989 TestAUC: 0.998 max AUC: 0.999
+   Measure: 0.101 ValidAUC: 0.993 TestAUC: 0.999 max AUC: 0.999
+================ Tue Mar 21 15:46:11 2023 ================
+bird,Protocol2, 5, 50, 1
+
+   Measure: 0.171 ValidAUC: 0.198 TestAUC: 0.291 max AUC: 0.291
+   Measure: 0.065 ValidAUC: 0.999 TestAUC: 0.889 max AUC: 0.889
+   Measure: 0.079 ValidAUC: 0.999 TestAUC: 0.969 max AUC: 0.889
+   Measure: 0.105 ValidAUC: 0.981 TestAUC: 0.398 max AUC: 0.889
+   Measure: 0.078 ValidAUC: 0.982 TestAUC: 0.144 max AUC: 0.889
+================ Tue Mar 21 15:47:41 2023 ================
+cat,Protocol2, 5, 50, 1
+
+   Measure: 0.137 ValidAUC: 0.976 TestAUC: 0.132 max AUC: 0.132
+   Measure: 0.056 ValidAUC: 0.990 TestAUC: 0.948 max AUC: 0.948
+   Measure: 0.052 ValidAUC: 0.987 TestAUC: 0.591 max AUC: 0.948
+   Measure: 0.068 ValidAUC: 0.989 TestAUC: 0.275 max AUC: 0.948
+   Measure: 0.080 ValidAUC: 0.988 TestAUC: 0.417 max AUC: 0.948
+================ Tue Mar 21 15:49:11 2023 ================
+deer,Protocol2, 5, 50, 1
+
+   Measure: 0.139 ValidAUC: 0.995 TestAUC: 0.992 max AUC: 0.992
+   Measure: 0.095 ValidAUC: 0.999 TestAUC: 0.999 max AUC: 0.999
+   Measure: 0.093 ValidAUC: 0.995 TestAUC: 0.986 max AUC: 0.999
+   Measure: 0.085 ValidAUC: 0.992 TestAUC: 0.897 max AUC: 0.999
+   Measure: 0.085 ValidAUC: 0.999 TestAUC: 0.997 max AUC: 0.997
+================ Tue Mar 21 15:50:43 2023 ================
+dog,Protocol2, 5, 50, 1
+
+   Measure: 0.325 ValidAUC: 0.780 TestAUC: 0.616 max AUC: 0.616
+   Measure: 0.152 ValidAUC: 0.998 TestAUC: 0.966 max AUC: 0.966
+   Measure: 0.139 ValidAUC: 0.999 TestAUC: 0.972 max AUC: 0.972
+   Measure: 0.131 ValidAUC: 0.997 TestAUC: 0.862 max AUC: 0.972
+   Measure: 0.113 ValidAUC: 0.997 TestAUC: 0.793 max AUC: 0.972
+================ Tue Mar 21 15:52:15 2023 ================
+frog,Protocol2, 5, 50, 1
+
+   Measure: 0.115 ValidAUC: 0.997 TestAUC: 1.000 max AUC: 1.000
+   Measure: 0.078 ValidAUC: 0.993 TestAUC: 1.000 max AUC: 1.000
+   Measure: 0.086 ValidAUC: 0.997 TestAUC: 1.000 max AUC: 1.000
+   Measure: 0.056 ValidAUC: 0.991 TestAUC: 0.999 max AUC: 1.000
+   Measure: 0.067 ValidAUC: 0.987 TestAUC: 0.994 max AUC: 1.000
+================ Tue Mar 21 15:53:47 2023 ================
+horse,Protocol2, 5, 50, 1
+
+   Measure: 0.229 ValidAUC: 0.486 TestAUC: 0.207 max AUC: 0.207
+   Measure: 0.118 ValidAUC: 0.992 TestAUC: 0.962 max AUC: 0.962
+   Measure: 0.098 ValidAUC: 0.997 TestAUC: 0.998 max AUC: 0.998
+   Measure: 0.125 ValidAUC: 0.981 TestAUC: 0.697 max AUC: 0.998
+   Measure: 0.081 ValidAUC: 0.997 TestAUC: 0.998 max AUC: 0.998
+================ Tue Mar 21 15:55:18 2023 ================
+ship,Protocol2, 5, 50, 1
+
+   Measure: 0.238 ValidAUC: 0.737 TestAUC: 0.984 max AUC: 0.984
+   Measure: 0.119 ValidAUC: 0.994 TestAUC: 1.000 max AUC: 1.000
+   Measure: 0.120 ValidAUC: 0.984 TestAUC: 0.999 max AUC: 1.000
+   Measure: 0.181 ValidAUC: 0.919 TestAUC: 0.998 max AUC: 1.000
+   Measure: 0.100 ValidAUC: 0.986 TestAUC: 1.000 max AUC: 1.000
+================ Tue Mar 21 15:56:53 2023 ================
+truck,Protocol2, 5, 50, 1
+
+   Measure: 0.275 ValidAUC: 0.789 TestAUC: 0.930 max AUC: 0.930
+   Measure: 0.148 ValidAUC: 0.987 TestAUC: 1.000 max AUC: 1.000
+   Measure: 0.129 ValidAUC: 0.986 TestAUC: 1.000 max AUC: 1.000
+   Measure: 0.114 ValidAUC: 0.988 TestAUC: 1.000 max AUC: 1.000
+   Measure: 0.193 ValidAUC: 0.369 TestAUC: 0.893 max AUC: 1.000
